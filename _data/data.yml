@@ -30,58 +30,42 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm a third-year computer science student at the University of Rhode Island 
+      with an intense passion for software engineering. I am actively seeking a 
+      full-time internship for the summer of 2019, and expect to graduate with a 
+      B.S. in computer science in December 2019.
 
 education:
     - degree: BS in Computer Science
       university: The University of Rhode Island
-      time: 2017-2019 (expected)
+      time: Sep 2017- Dec 2019 (expected)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        Relevant coursework:
+          - Programming in C#
+          - Survey of Computer Science
+          - Object-Oriented Programming
+          - Data Structures and Abstractions
+          - Fundamentals of Programming Languages (currently taking)
+          - Software Engineering (currently taking)
 
 experiences:
     - role: Computer Science Teacher's Assistant
       time: Jan 2018 - Present
       company: The University of Rhode Island
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+          - Teacher's assistant for course taught in Python focusing on algorithm analysis
+          - Lead weekly programming labs to guide students in creating Python programs
+          - Grade homework and projects; give feedback to encourage best programming practices
+          - Collaborate with other TAs and course instructor primarily via email and GAFE
 
     - role: IT Service Desk Consultant
       time: Oct 2017 - Present
       company: The University of Rhode Island
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Assist in the administration of technology on campus, including networking, eCampus, Sakai
+          - Resolve student, faculty, and staff issues with campus technologies
+          - Work in a customer-facing role on the phone and in-person
+          - Collaborate with a diverse team in a fast-paced atmosphere
 
 projects:
     title: Projects
