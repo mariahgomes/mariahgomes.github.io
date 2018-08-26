@@ -2,7 +2,7 @@
 remote_theme: sharu725/online-cv
 
 # Site Settings
-title: My Resume
+title: Mariah Gomes
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
