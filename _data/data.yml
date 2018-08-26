@@ -12,9 +12,9 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: 
     phone: 401 500 9467
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: mariahgomes
     github: mariahgomes
     gitlab:
@@ -49,22 +49,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Computer Science
+      university: The University of Rhode Island
+      time: 2017-2019 (expected)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -171,17 +158,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 85%
 
-      - name: Angular
-        level: 98%
+      - name: C#
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: JavaScript
+        level: 75%
 
       - name: Ruby on Rails
         level: 85%
