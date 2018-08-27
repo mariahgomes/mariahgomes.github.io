@@ -79,6 +79,10 @@ projects:
       - title: Customer Simulations
         link: "https://github.com/mariahgomes/Customer-Simulations"
         tagline: "A program that simulates putting customers in a queue using a variety of data structures."
+        
+      - title: Scheduler
+        link: "https://github.com/mariahgomes/Scheduler"
+        tagline: "An interactive appointment scheduler using dynamic arrays."
 
       - title: Natural Language Detection
         link: "https://github.com/mariahgomes/Natural-Language-Detection"
