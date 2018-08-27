@@ -74,23 +74,23 @@ projects:
     assignments:
       - title: Binary Search Tree Dictionaries
         link: "https://github.com/mariahgomes/BST-Dictionaries"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A program using binary search tree and dynamic arrays to compare words from a text to dictionaries."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Customer Simulations
+        link: "https://github.com/mariahgomes/Customer-Simulations"
+        tagline: "A program that simulates putting customers in a queue using a variety of data structures."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Natural Language Detection
+        link: "https://github.com/mariahgomes/Natural-Language-Detection"
+        tagline: "Machine learning algorithm for natural language detection, using n-gram frequencies to create vectors which are then compared using cosine similarity to find closest matching language files."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Big Integer Class
+        link: "https://github.com/mariahgomes/Big-Integer-Class"
+        tagline: "Bit integer class implementation in C++."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: SET Game
+        link: "https://github.com/mariahgomes/SET-Game"
+        tagline: "Text-based card game SET in Python."
 
 skills:
     title: Skills &amp; Proficiency
