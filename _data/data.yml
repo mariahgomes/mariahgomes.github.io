@@ -55,6 +55,7 @@ experiences:
       details: |
           - Teacher's assistant for course taught in Python focusing on algorithm analysis
           - Lead weekly programming labs to guide students in creating Python programs
+          - Hold weekly help hours to provide one-on-one instruction to students
           - Grade homework and projects; give feedback to encourage best programming practices
           - Collaborate with other TAs and course instructor primarily via email and GAFE
 
@@ -62,10 +63,22 @@ experiences:
       time: Oct 2017 - Present
       company: The University of Rhode Island
       details: |
-          - Assist in the administration of technology on campus, including networking, eCampus, Sakai
-          - Resolve student, faculty, and staff issues with campus technologies
+          - Resolve student, faculty, and staff questions and issues with campus technologies
+          - Assist in the administration of technology on campus
+          - Set up Wi-Fi connections using CloudPath on various devices
+                - Windows, Mac, Linux, Android, iOS, video game consoles, streaming devices
+          - Guide new students and faculty with creating and using eCampus accounts
+          - Walk faculty through creating and maintaining Sakai course sites
+          - Escalate issues using web-based trouble ticket service Pinnacle
+                - Follow departmental procedures to open and resolve tickets
+                - Write clear and concise trouble tickets with all relevant information
+                - Call back and email end users with updates to their trouble tickets
           - Work in a customer-facing role on the phone and in-person
+                - Assist new dorm residents with Wi-Fi set up on their devices
+                - Set up new faculty computers and install software to which they were issued licenses
+          - Troubleshoot common computer issues (slow startup, driver issues, etc.)
           - Collaborate with a diverse team in a fast-paced atmosphere
+          - Assist with training new employees on crucial job functions
 
 projects:
     title: Projects
@@ -75,6 +88,8 @@ projects:
       - title: Binary Search Tree Dictionaries
         link: "https://github.com/mariahgomes/BST-Dictionaries"
         tagline: "A program using binary search tree and dynamic arrays to compare words from a text to dictionaries."
+                 " huihuihku"
+                 "ijoijoi"
 
       - title: Customer Simulations
         link: "https://github.com/mariahgomes/Customer-Simulations"
