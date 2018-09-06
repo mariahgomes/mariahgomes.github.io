@@ -97,6 +97,11 @@ projects:
             A program that simulates putting customers in a queue using a variety of data structures.
             - huihui
             - huhihu.
+        details: |
+            Test test
+            - hdh hu
+            - hduhdu
+            Test.
         
       - title: Scheduler
         link: "https://github.com/mariahgomes/Scheduler"
