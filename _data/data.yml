@@ -88,8 +88,8 @@ projects:
       - title: Binary Search Tree Dictionaries
         link: "https://github.com/mariahgomes/BST-Dictionaries"
         tagline: "A program using binary search tree and dynamic arrays to compare words from a text to dictionaries."
-                 " huihuihku"
-                 "ijoijoi"
+                 #" huihuihku"
+                 #"ijoijoi"
 
       - title: Customer Simulations
         link: "https://github.com/mariahgomes/Customer-Simulations"
