@@ -95,8 +95,8 @@ projects:
         link: "https://github.com/mariahgomes/Customer-Simulations"
         tagline: |
             A program that simulates putting customers in a queue using a variety of data structures.
-            huihui
-            huhihu.
+            - huihui
+            - huhihu.
         
       - title: Scheduler
         link: "https://github.com/mariahgomes/Scheduler"
