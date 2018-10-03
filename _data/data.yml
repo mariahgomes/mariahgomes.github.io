@@ -41,12 +41,17 @@ education:
       time: Sep 2017- Dec 2019 (expected)
       details: |
         Relevant coursework:
-          - Programming in C#
-          - Survey of Computer Science
-          - Object-Oriented Programming
+          - Software Engineering (current)
+          - Fundamentals of Programming Languages (current)
           - Data Structures and Abstractions
-          - Fundamentals of Programming Languages (currently taking)
-          - Software Engineering (currently taking)
+          - Object-Oriented Programming
+          - Survey of Computer Science
+          - Programming in C#
+          
+          
+          
+          
+          
 
 experiences:
     - role: Computer Science Teacher's Assistant
@@ -63,22 +68,31 @@ experiences:
       time: Oct 2017 - Present
       company: The University of Rhode Island
       details: |
+          - Assist in the administration of technology on campus, including networking, e-Campus, Sakai
           - Resolve student, faculty, and staff questions and issues with campus technologies
-          - Assist in the administration of technology on campus
-          - Set up Wi-Fi connections using CloudPath on various devices
-            - Windows, Mac, Linux, Android, iOS, video game consoles, streaming devices
-          - Guide new students and faculty with creating and using eCampus accounts
-          - Walk faculty through creating and maintaining Sakai course sites
           - Escalate issues using web-based trouble ticket service Pinnacle
-            - Follow departmental procedures to open and resolve tickets
-            - Write clear and concise trouble tickets with all relevant information
-            - Call back and email end users with updates to their trouble tickets
+          - Use Cisco Webex video conferencing to guide faculty in maintaining Sakai course sites
           - Work in a customer-facing role on the phone and in-person
-            - Assist new dorm residents with Wi-Fi set up on their devices
-            - Set up new faculty computers and install software to which they were issued licenses
-          - Troubleshoot common computer issues (slow startup, driver issues, etc.)
           - Collaborate with a diverse team in a fast-paced atmosphere
-          - Assist with training new employees on crucial job functions
+         
+  
+  - role: Direct Support Professional
+    time: March 2016 - Sep 2016
+    company: Living Innovations
+    details: |
+        - Provide daily support to adults with developmental disabilities
+        - Assist clients with finding employment and volunteer positions aligned with their needs
+        - Practice verbal de-escalation in potentially stressful situations when necessary
+        - Coordinate client goals with supervisots, coworkers, and families
+      
+  - role: Information Desk Receptionist
+    time: March 2013 - Aug 2016
+    company: Miriam Hospital
+    details: |
+        - Use Epic software to access hospital database in order to look up and give information to visitors
+        - Direct visitors to patient rooms and hospital offices
+        - Answer incoming phone calls and transfer them to relevant extensions
+        - Comply with HIPAA regulations regarding the release of patient information
 
 projects:
     title: Projects
