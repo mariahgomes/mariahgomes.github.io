@@ -94,13 +94,13 @@ experiences:
           - Coordinate client goals with supervisots, coworkers, and families
       
    - role: Information Desk Receptionist
-      time: March 2013 - Aug 2016
-      company: Miriam Hospital
-      details: |
-          - Use Epic software to access hospital database in order to look up and give information to visitors
-          - Direct visitors to patient rooms and hospital offices
-          - Answer incoming phone calls and transfer them to relevant extensions
-          - Comply with HIPAA regulations regarding the release of patient information
+     time: March 2013 - Aug 2016
+     company: Miriam Hospital
+     details: |
+         - Use Epic software to access hospital database in order to look up and give information to visitors
+         - Direct visitors to patient rooms and hospital offices
+         - Answer incoming phone calls and transfer them to relevant extensions
+         - Comply with HIPAA regulations regarding the release of patient information
 
 projects:
     title: Projects
