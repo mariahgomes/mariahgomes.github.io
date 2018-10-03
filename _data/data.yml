@@ -48,6 +48,15 @@ education:
           - Survey of Computer Science
           - Programming in C#
           
+    - degree:
+      university: Community College of Rhode Island
+      time: Sep 2016 - May 2017
+      details: |
+      
+    - degree:
+      university: Rhode Island College
+      time: Sep 2015 - May 2016
+      details: |
           
           
           
@@ -75,24 +84,23 @@ experiences:
           - Work in a customer-facing role on the phone and in-person
           - Collaborate with a diverse team in a fast-paced atmosphere
          
-  
-  - role: Direct Support Professional
-    time: March 2016 - Sep 2016
-    company: Living Innovations
-    details: |
-        - Provide daily support to adults with developmental disabilities
-        - Assist clients with finding employment and volunteer positions aligned with their needs
-        - Practice verbal de-escalation in potentially stressful situations when necessary
-        - Coordinate client goals with supervisots, coworkers, and families
+    - role: Direct Support Professional
+      time: March 2016 - Sep 2016
+      company: Living Innovations
+      details: |
+          - Provide daily support to adults with developmental disabilities
+          - Assist clients with finding employment and volunteer positions aligned with their needs
+          - Practice verbal de-escalation in potentially stressful situations when necessary
+          - Coordinate client goals with supervisots, coworkers, and families
       
-  - role: Information Desk Receptionist
-    time: March 2013 - Aug 2016
-    company: Miriam Hospital
-    details: |
-        - Use Epic software to access hospital database in order to look up and give information to visitors
-        - Direct visitors to patient rooms and hospital offices
-        - Answer incoming phone calls and transfer them to relevant extensions
-        - Comply with HIPAA regulations regarding the release of patient information
+   - role: Information Desk Receptionist
+      time: March 2013 - Aug 2016
+      company: Miriam Hospital
+      details: |
+          - Use Epic software to access hospital database in order to look up and give information to visitors
+          - Direct visitors to patient rooms and hospital offices
+          - Answer incoming phone calls and transfer them to relevant extensions
+          - Comply with HIPAA regulations regarding the release of patient information
 
 projects:
     title: Projects
